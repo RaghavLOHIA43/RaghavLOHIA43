@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Raghav Lohia, and I’m a front-end developer with an interest in all things programming and design."
+
+- 📩 Wanna talk about that idea of yours? - raghavlohia225@gmail.com
+- 🙌🏼 I’m looking forward to connect with you on linkedin - [Raghav Lohia](https://www.linkedin.com/in/lohiaraghav/)
 
 <!--
 **RaghavLOHIA43/RaghavLOHIA43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
